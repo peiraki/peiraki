@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peiraki (Beka) 
+- 👀 I’m interested in Full-Stack
+- 🌱 I’m currently learning Javascript

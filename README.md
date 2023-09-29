@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @peiraki (Beka) (Front-End Developer)
-- 👀 I’m interested in Full-Stack
-- 🌱 I’m currently learning Back-End
+- 👋 Hi, I’m @peiraki (Beka) (Full-stack developer);
+- 👀 I'am interested in you if you are friendly with technology();
+- 🌱 I'am currently improving the Back-End skills
